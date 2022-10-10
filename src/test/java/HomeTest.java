@@ -1,6 +1,6 @@
 public class HomeTest {
-    String name = "Kuba";
-    String role = "Instructor";
+    String name = "Cristina";
+    String role = "Student";
     int id = 99;
-    String email = "kuba@test.com";
+    String email = "cristina@test.com";
 }
