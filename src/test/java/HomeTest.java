@@ -12,7 +12,7 @@ public class HomeTest {
         //implementation
     }
 
-    @Test
+    @Test(testName = "US43: Testtin empleyee input table")
     public void test02(){
         //implementation part1
         //use switchToNewWindow method
